@@ -1,5 +1,6 @@
 # WinSock-demo-with-Error-reporting
-Socket demo with Error reporting, making a connection and streaming data
+Socket demo with Error reporting, making a connection and streaming data. 
+Sample socket test case using pthreads for threading, not all parts of the code will be needed for all situations. Also, some may need more features than this code shows. The code lies between a 'clean sample of one feature' and a 'final working code set'.
 
 Working socket demo with error reporting as of VS2015 x64. Sharing this because when I was making samples there
 were limited working samples for my needs, and it was a bit hard to find all of the error reporting code.
